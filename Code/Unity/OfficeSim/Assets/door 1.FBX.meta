@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 535e0f91789bd43bca33402ba389905b
+timeCreated: 1459219983
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Cylinder002
+    100004: Cylinder01
+    100006: dik
+    100008: dik001
+    100010: //RootNode
+    100012: "Layer:yaz\u0131002"
+    100014: "Layer:yaz\u013101"
+    100016: Line002
+    100018: Line01
+    100020: Rectangle002
+    100022: Rectangle01
+    100024: Sphere005
+    100026: Sphere006
+    100028: Sphere007
+    100030: Sphere008
+    100032: Sphere01
+    100034: Sphere02
+    100036: Sphere03
+    100038: Sphere04
+    400000: Box01
+    400002: Cylinder002
+    400004: Cylinder01
+    400006: dik
+    400008: dik001
+    400010: //RootNode
+    400012: "Layer:yaz\u0131002"
+    400014: "Layer:yaz\u013101"
+    400016: Line002
+    400018: Line01
+    400020: Rectangle002
+    400022: Rectangle01
+    400024: Sphere005
+    400026: Sphere006
+    400028: Sphere007
+    400030: Sphere008
+    400032: Sphere01
+    400034: Sphere02
+    400036: Sphere03
+    400038: Sphere04
+    2300000: Box01
+    2300002: Cylinder002
+    2300004: Cylinder01
+    2300006: dik
+    2300008: dik001
+    2300010: "Layer:yaz\u0131002"
+    2300012: "Layer:yaz\u013101"
+    2300014: Line002
+    2300016: Line01
+    2300018: Rectangle002
+    2300020: Rectangle01
+    2300022: Sphere005
+    2300024: Sphere006
+    2300026: Sphere007
+    2300028: Sphere008
+    2300030: Sphere01
+    2300032: Sphere02
+    2300034: Sphere03
+    2300036: Sphere04
+    3300000: Box01
+    3300002: Cylinder002
+    3300004: Cylinder01
+    3300006: dik
+    3300008: dik001
+    3300010: "Layer:yaz\u0131002"
+    3300012: "Layer:yaz\u013101"
+    3300014: Line002
+    3300016: Line01
+    3300018: Rectangle002
+    3300020: Rectangle01
+    3300022: Sphere005
+    3300024: Sphere006
+    3300026: Sphere007
+    3300028: Sphere008
+    3300030: Sphere01
+    3300032: Sphere02
+    3300034: Sphere03
+    3300036: Sphere04
+    4300000: Line01
+    4300002: Rectangle01
+    4300004: "Layer:yaz\u013101"
+    4300006: Sphere01
+    4300008: Sphere02
+    4300010: Sphere04
+    4300012: Cylinder01
+    4300014: Sphere03
+    4300016: dik
+    4300018: Box01
+    4300020: "Layer:yaz\u0131002"
+    4300022: Sphere005
+    4300024: Sphere006
+    4300026: Sphere007
+    4300028: Cylinder002
+    4300030: Sphere008
+    4300032: Line002
+    4300034: dik001
+    4300036: Rectangle002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

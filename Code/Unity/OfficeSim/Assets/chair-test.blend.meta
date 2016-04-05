@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: faeea2f32486d46c38023acb3dce1dae
+timeCreated: 1459206472
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Amia_ArmCa
+    100002: Amia_Arms
+    100004: Amia_Arms2
+    100006: Amia_Arms_Black2
+    100008: Amia_BackS
+    100010: Amia_Base
+    100012: Amia_Base_Black
+    100014: Amia_Cast0
+    100016: Amia_Cast1
+    100018: Amia_Cast2
+    100020: Amia_Cast3
+    100022: Amia_Caste
+    100024: Amia_Frame
+    100026: Amia_Frame2
+    100028: Amia_Frame_Black
+    100030: Amia_Frame_Black2
+    100032: Amia_SeatS
+    100034: //RootNode
+    400000: Amia_ArmCa
+    400002: Amia_Arms
+    400004: Amia_Arms2
+    400006: Amia_Arms_Black2
+    400008: Amia_BackS
+    400010: Amia_Base
+    400012: Amia_Base_Black
+    400014: Amia_Cast0
+    400016: Amia_Cast1
+    400018: Amia_Cast2
+    400020: Amia_Cast3
+    400022: Amia_Caste
+    400024: Amia_Frame
+    400026: Amia_Frame2
+    400028: Amia_Frame_Black
+    400030: Amia_Frame_Black2
+    400032: Amia_SeatS
+    400034: //RootNode
+    2300000: Amia_ArmCa
+    2300002: Amia_Arms
+    2300004: Amia_Arms2
+    2300006: Amia_Arms_Black2
+    2300008: Amia_BackS
+    2300010: Amia_Base
+    2300012: Amia_Base_Black
+    2300014: Amia_Cast0
+    2300016: Amia_Cast1
+    2300018: Amia_Cast2
+    2300020: Amia_Cast3
+    2300022: Amia_Caste
+    2300024: Amia_Frame
+    2300026: Amia_Frame2
+    2300028: Amia_Frame_Black
+    2300030: Amia_Frame_Black2
+    2300032: Amia_SeatS
+    3300000: Amia_ArmCa
+    3300002: Amia_Arms
+    3300004: Amia_Arms2
+    3300006: Amia_Arms_Black2
+    3300008: Amia_BackS
+    3300010: Amia_Base
+    3300012: Amia_Base_Black
+    3300014: Amia_Cast0
+    3300016: Amia_Cast1
+    3300018: Amia_Cast2
+    3300020: Amia_Cast3
+    3300022: Amia_Caste
+    3300024: Amia_Frame
+    3300026: Amia_Frame2
+    3300028: Amia_Frame_Black
+    3300030: Amia_Frame_Black2
+    3300032: Amia_SeatS
+    4300000: Amia_Base
+    4300002: Amia_Cast0
+    4300004: Amia_Cast3
+    4300006: Amia_Caste
+    4300008: Amia_Arms2
+    4300010: Amia_Frame
+    4300012: Amia_Cast2
+    4300014: Amia_BackS
+    4300016: Amia_Cast1
+    4300018: Amia_Frame_Black2
+    4300020: Amia_Frame_Black
+    4300022: Amia_Base_Black
+    4300024: Amia_Arms_Black2
+    4300026: Amia_ArmCa
+    4300028: Amia_SeatS
+    4300030: Amia_Arms
+    4300032: Amia_Frame2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
