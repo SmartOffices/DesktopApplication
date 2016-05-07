@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MainOffice02.unity
+- path: Assets/Office.unity
   isLoaded: 1
   isActive: 1

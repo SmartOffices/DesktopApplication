@@ -74,6 +74,18 @@ namespace SmartOfficeServer.Model
             this.password = password;
             this.notification = false;
         }
+
+        public TCPServer t
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+
+            set
+            {
+            }
+        }
     }// user login
 
     class Notification
@@ -139,4 +151,6 @@ namespace SmartOfficeServer.Model
             this.battery_level = battery_level;
         }
     }//robot
+
+    
 }

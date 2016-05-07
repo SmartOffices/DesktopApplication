@@ -106,38 +106,40 @@ namespace SmartOfficeMetro
             UserManager.Instance.username = textBoxUsername.Text;
             UserManager.Instance.password = passwordBox.Password;
             UserManager.Instance.image = "Contacts-96.png";
-            Thread startLogin = new Thread(new ThreadStart(loginUser));
-                    startLogin.SetApartmentState(ApartmentState.STA);
-                    startLogin.IsBackground = true;
-                    startLogin.Start();
-
+            /*      Thread startLogin = new Thread(new ThreadStart(loginUser));
+                          startLogin.SetApartmentState(ApartmentState.STA);
+                          startLogin.IsBackground = true;
+                          startLogin.Start();
+      */
+           
             //Create initial UI of the main window while background worker authenticates
             mainDisplay = new MainWindow();
             Application.Current.MainWindow = mainDisplay;
 
+            //mainDisplay.UpdateUI();
+            mainDisplay.Show();
+            // Task<Boolean> login_result = new Task<Boolean>(() => loginUser());
+            /*
+                        if(false)
+                        {
+                            createDisplay = new MainWindow(UserManager.Instance);
+                            Application.Current.MainWindow = createDisplay;
+                            createDisplay.Show();
+                            this.Close();
+                        }
+                        else
+                        {
+                            this.ShowMessageAsync("ad", "dasd");
+                        }
+             */
+            //Application.Current.MainWindow.
+            //createDisplay.Show();
+            //this.Close();
+            // loginUser();
+            //Thread.Sleep(5000);
 
-               // Task<Boolean> login_result = new Task<Boolean>(() => loginUser());
-    /*
-                if(false)
-                {
-                    createDisplay = new MainWindow(UserManager.Instance);
-                    Application.Current.MainWindow = createDisplay;
-                    createDisplay.Show();
-                    this.Close();
-                }
-                else
-                {
-                    this.ShowMessageAsync("ad", "dasd");
-                }
-     */
-        //Application.Current.MainWindow.
-        //createDisplay.Show();
-        //this.Close();
-        // loginUser();
-        //Thread.Sleep(5000);
 
-
-    }//button click
+        }//button click
      /*
              private void toggleSpinner()
              {

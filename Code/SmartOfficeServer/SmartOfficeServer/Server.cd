@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Server Data Models:">
+    <Position X="0.775" Y="0.5" Height="0.725" Width="3.286" />
+  </Comment>
+  <Comment CommentText="Singleton class for user data">
+    <Position X="0.658" Y="1.983" Height="0.75" Width="1.55" />
+  </Comment>
+  <Comment CommentText="Class for database connection">
+    <Position X="5.917" Y="2.025" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Main class that drives the server and has server logic">
+    <Position X="2.75" Y="2" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="SmartOfficeServer.TCPServer">
+    <Position X="2.75" Y="3" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IQIAgIADAABA4YQABAAAAAAKEAEOEggAgDBhIEgQgEI=</HashCode>
+      <FileName>TCPServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartOfficeServer.Model.DBConnect">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAEAAACAAAQBAAEABABEAAQEAAAgAAAAAAgAAAAI=</HashCode>
+      <FileName>Model\DBConnect.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TCPServer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartOfficeServer.Model.JSONObject" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Model\JSONObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartOfficeServer.Model.Mail" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAEAEAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\JSONObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartOfficeServer.Model.User">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAgAAAAAAVQEAAAAAAgAAQAAgAAAgA=</HashCode>
+      <FileName>Model\JSONObject.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="t" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartOfficeServer.Model.Notification" Collapsed="true">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAIAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\JSONObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartOfficeServer.Model.loginObject" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQA=</HashCode>
+      <FileName>Model\JSONObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartOfficeServer.Model.Destination" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Model\JSONObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartOfficeServer.Model.Robot" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>Model\JSONObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

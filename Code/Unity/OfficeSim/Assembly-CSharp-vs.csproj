@@ -67,13 +67,15 @@
      <Compile Include="Assets\Scripts\MoveTarget.cs" />
      <Compile Include="Assets\Scripts\MovementPosition.cs" />
      <Compile Include="Assets\Scripts\ProximitySensor.cs" />
+     <Compile Include="Assets\Scripts\SmartOfficeClient.cs" />
      <Compile Include="Assets\Scripts\navigationScriptObject.cs" />
      <Compile Include="Assets\Scripts\navigationScriptObjectNEW.cs" />
      <Compile Include="Assets\Scripts\navigationScriptVector.cs" />
-     <Compile Include="Assets\SmartOfficeClient.cs" />
+     <Compile Include="Assets\Scripts\socketScript.cs" />
+     <Compile Include="Assets\SkySphere_V1\Examples\Gui.cs" />
+     <Compile Include="Assets\SkySphere_V1\Examples\MouseLook.cs" />
      <Compile Include="Assets\TCPConnection.cs" />
      <Compile Include="Assets\UserManager.cs" />
-     <Compile Include="Assets\socketScript.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
@@ -118,6 +120,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
+     <None Include="Assets\SkySphere_V1\Documentation\How to use.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />

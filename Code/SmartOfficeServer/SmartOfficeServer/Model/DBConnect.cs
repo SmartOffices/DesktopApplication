@@ -23,6 +23,18 @@ namespace SmartOfficeServer.Model
             Initialize();
         }
 
+        public TCPServer TCPServer
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+
+            set
+            {
+            }
+        }
+
         /// <summary>
         /// Provide MySQL DB details like server, database name, username, password etc
         /// </summary>

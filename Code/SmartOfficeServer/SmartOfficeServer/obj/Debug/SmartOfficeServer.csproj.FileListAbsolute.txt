@@ -43,3 +43,7 @@ C:\Users\Raghav\Documents\Visual Studio 2015\Projects\DesktopApplication\Code\Sm
 C:\Users\Raghav\Documents\Visual Studio 2015\Projects\DesktopApplication\Code\SmartOfficeServer\SmartOfficeServer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Raghav\Documents\Visual Studio 2015\Projects\DesktopApplication\Code\SmartOfficeServer\SmartOfficeServer\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Raghav\Documents\Visual Studio 2015\Projects\DesktopApplication\Code\SmartOfficeServer\SmartOfficeServer\obj\Debug\SmartOfficeServer.csprojResolveAssemblyReference.cache
+C:\Users\Raghav\Documents\GitHub\DesktopApplication\Code\SmartOfficeServer\SmartOfficeServer\bin\Debug\SmartOfficeServer.exe.config
+C:\Users\Raghav\Documents\GitHub\DesktopApplication\Code\SmartOfficeServer\SmartOfficeServer\bin\Debug\SmartOfficeServer.XML
+C:\Users\Raghav\Documents\GitHub\DesktopApplication\Code\SmartOfficeServer\SmartOfficeServer\obj\Debug\SmartOfficeServer.exe
+C:\Users\Raghav\Documents\GitHub\DesktopApplication\Code\SmartOfficeServer\SmartOfficeServer\obj\Debug\SmartOfficeServer.pdb
