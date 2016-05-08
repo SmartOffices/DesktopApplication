@@ -8,4 +8,11 @@ To run the code, the BotMovement.cs file must be attached to the Bot object in U
 
 On the top of the screen, click the play button. The robot will move towards the cubicle/object corresponding to the specified array index. To control which array index specifies which location, please see the Unity Section of the User Documentation.
 
+----------------------
+Updates After Demo 2
+----------------------
+
+TimesheetCreator.sln is the file that performs the unit testing for the automatic timesheet generation functionality of the security aspect of the the Smart Office System. When fed data, it populates an Excel sheet in the desired format.
+
+
 
