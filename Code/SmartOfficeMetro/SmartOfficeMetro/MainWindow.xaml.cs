@@ -11,6 +11,10 @@ using MahApps.Metro;
 using System.Threading;
 
 using SmartOfficeMetro.Model;
+
+/// <summary>
+/// Created by Raghav Bhardwaj
+/// </summary>
 namespace SmartOfficeMetro
 {
     /// <summary>

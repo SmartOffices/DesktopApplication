@@ -7,7 +7,10 @@ using System.Windows.Controls;
 
 using SmartOfficeMetro.Model;
 
-
+/// <summary>
+/// Created by Naorin Hossain
+/// Edited by Raghav Bhardwaj
+/// </summary>
 namespace SmartOfficeMetro
 {
     /// <summary>

@@ -5,7 +5,9 @@ using System.Threading;
 using System.Windows;
 using System.Windows.Controls;
 
-
+/// <summary>
+/// Created by Raghav Bhardwaj
+/// </summary>
 namespace SmartOfficeMetro
 {
     /// <summary>

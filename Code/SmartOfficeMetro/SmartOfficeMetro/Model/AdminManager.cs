@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Created by Raghav Bhardwaj
+/// </summary>
 namespace SmartOfficeMetro.Model
 {
 //Singleton for handling admin functions 

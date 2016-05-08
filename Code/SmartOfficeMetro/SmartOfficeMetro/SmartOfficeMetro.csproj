@@ -154,7 +154,6 @@
     <Compile Include="MainDelivery.xaml.cs">
       <DependentUpon>MainDelivery.xaml</DependentUpon>
     </Compile>
-    <Compile Include="TcpClientTest.cs" />
     <Compile Include="Tile_Battery_Info.xaml.cs">
       <DependentUpon>Tile_Battery_Info.xaml</DependentUpon>
     </Compile>
