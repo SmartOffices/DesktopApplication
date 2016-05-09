@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+// Coded by Talha Mahmood
+using UnityEngine;
 using System.Collections;
 
 public class DestroyObject : MonoBehaviour {
